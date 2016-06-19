@@ -1,0 +1,19 @@
+{
+    "name": "sumon/rrf-cms",
+    "description": "A simple CMS developed using PHP OOP",
+    "type": "CMS",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Sumon Selim",
+            "email": "me@sumonselim.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RRF\\": "app/"
+        }
+    }
+}
